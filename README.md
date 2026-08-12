@@ -1,10 +1,9 @@
 ## 👋 Hi, I'm Burak Fatih Özen
 
-- 🎓 3rd-year **Computer Engineering** student at **Gazi University**
+- 🎓 4tn-year **Computer Engineering** student at **Gazi University**
 - 🤖 Focused on **Artificial Intelligence, Machine Learning, and Deep Learning**
 - 📊 Interested in **data analysis, model training, and performance evaluation**
 - 🧠 Working on understanding **ML algorithms and neural network fundamentals**
-- 💻 Using **Java and C** for algorithmic thinking and problem solving
 - 🚀 Continuously improving myself through **projects, courses, and practice**
 - 📫 Reach me at: **bfatih.ozen@gazi.edu.tr**
 
