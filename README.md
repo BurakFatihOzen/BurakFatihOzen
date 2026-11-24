@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Burak Fatih Özen
 
-- 🎓 4tn-year **Computer Engineering** student at **Gazi University**
+- 🎓 4th-year **Computer Engineering** student at **Gazi University**
 - 🤖 Focused on **Artificial Intelligence, Machine Learning, and Deep Learning**
 - 📊 Interested in **data analysis, model training, and performance evaluation**
 - 🧠 Working on understanding **ML algorithms and neural network fundamentals**
